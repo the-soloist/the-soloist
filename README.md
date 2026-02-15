@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=the-soloist&show_icons=true&count_private=true" width="80%">
+<img src="https://the-soloist.github.io/about/static/img2.png" width="30%">
 
 <!-- <table border="0">
   <tr>
