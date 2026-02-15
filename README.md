@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<table border="0">
+<img src="https://github-readme-stats.vercel.app/api?username=the-soloist&show_icons=true&count_private=true" width="80%">
+
+<!-- <table border="0">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=the-soloist&show_icons=true&count_private=true" width="80%">
@@ -11,4 +13,4 @@
   </tr>
 </table>
 
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=the-soloist&column=7&rank=-C,-B&margin-w=8&margin-h=6)
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=the-soloist&column=7&rank=-C,-B&margin-w=8&margin-h=6) -->
