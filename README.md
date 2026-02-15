@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://the-soloist.github.io/about/static/img2.png" width="30%">
+<img src="https://the-soloist.github.io/about/static/img2.png" width="35%">
 
 <!-- <table border="0">
   <tr>
